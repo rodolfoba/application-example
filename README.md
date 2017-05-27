@@ -1,1 +1,1 @@
-# Estrutura de exemplo para novas aplicações Java
+# Estrutura de exemplo para novas aplicações
